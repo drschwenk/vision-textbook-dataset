@@ -8,4 +8,7 @@ pyyaml
 sklearn
 scipy >= 0.16.1
 h5py
+invoke>=0.13.0
+requests
+lxml
 -e git+https://github.com/allenai/vision-utils#egg=ai2_vision_utils
