@@ -1,6 +1,6 @@
 # Compiled python modules.
 *.pyc
-
+./.gitignore
 # Setuptools distribution folder.
 /dist/
 
@@ -15,3 +15,5 @@
 # headScratch files act as a sandbox
 headScratch*.py
 
+quiz_parse.ipynb
+venv/
